@@ -1,0 +1,58 @@
+{
+  "empleados": [
+    {
+      "nombre": "asdasdasdasd",
+      "apellido": "asdasdasd",
+      "sexo": "M",
+      "id": 1
+    },
+    {
+      "nombre": "asdasd",
+      "apellido": "asdasd",
+      "sexo": "M",
+      "id": 2
+    },
+    {
+      "nombre": "asdasdasdas",
+      "apellido": "asdasd",
+      "sexo": "M",
+      "id": 3
+    },
+    {
+      "nombre": "asdasdasdas",
+      "apellido": "asdasd",
+      "sexo": "M",
+      "id": 4
+    },
+    {
+      "nombre": "asdasdasdas",
+      "apellido": "asdasd",
+      "sexo": "M",
+      "id": 5
+    },
+    {
+      "nombre": "affff",
+      "apellido": "ffff",
+      "sexo": "M",
+      "id": 6
+    },
+    {
+      "nombre": "xzcxc",
+      "apellido": "xzczxc",
+      "sexo": "M",
+      "id": 7
+    },
+    {
+      "nombre": "xzcxc",
+      "apellido": "xzczxc",
+      "sexo": "M",
+      "id": 8
+    },
+    {
+      "nombre": "xzcxc",
+      "apellido": "xzczxc",
+      "sexo": "M",
+      "id": 9
+    }
+  ]
+}
